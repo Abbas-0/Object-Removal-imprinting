@@ -67,6 +67,4 @@ great online services [here](https://cleanup.pictures/).
 
 Model: https://github.com/Picsart-AI-Research/MI-GAN
 
-## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=lxfater/inpaint-web&type=Date)](https://star-history.com/#lxfater/inpaint-web&Date)
